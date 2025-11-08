@@ -72,7 +72,7 @@ ul {
     border-radius: 24px;
     padding: 12px 10px 12px 60px;
     outline: none;
-    background: url("../responsive-dizayn.vercel.app_files/search.svg") no-repeat 20px 10px;
+    background: url("../assets/search.svg") no-repeat 20px 10px;
 }
 
 .menu {
